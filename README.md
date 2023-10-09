@@ -4,7 +4,7 @@ Projeto feito em sala de aula para testar o uso de Banco de Dados Relacional.
 
 ## 🚀 DEMO
 
-[Link para Demo](https://fatec-teste2.000webhostapp.com/fatec_franca/index.html)
+[Link para Demo](https://zombieergamiee.000webhostapp.com/fatec)
 
 ## 🛠️ Construído com
 
